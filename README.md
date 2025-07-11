@@ -17,7 +17,7 @@ Signature-verification-Neural-Network/
 │
 ├── dataset/                # Contains genuine and forged signature samples
 │
-├── main.py                # Defines the CNN architecture
+├── main.py                 # Defines the CNN architecture
 ├── train.py                # Training loop and data preprocessing
 ├── test.py                 # Model evaluation script
 └── README.md               # You're reading it!
